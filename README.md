@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**fedulovs/fedulovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 I'm a passionate QA Engineer from Saint-Petersburg
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Web Automation
+
+📱 Mobile Automation
+
+🛠 QA Tools development
+
+## Languages and tools
+
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></code>
+<code><img height="30" src="https://starchenkov.pro/qa-guru/img/skills/JUnit5.svg"></code>
+<code><img height="30" src="https://starchenkov.pro/qa-guru/img/skills/Selenium.svg"></code>
+<code><img height="30" src="https://developer.android.com/images/training/testing/espresso.png"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"></code>
+<code><img height="30" src="https://starchenkov.pro/qa-guru/img/skills/Allure_Report.svg"></code>
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedulovs)](https://github.com/anuraghazra/github-readme-stats)
+## Contacts
+
+https://www.linkedin.com/in/sergey-fedulov/
