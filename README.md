@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👨‍💻 I'm a passionate QA Engineer from Saint-Petersburg
+👨‍💻 I'm a passionate QA Engineer based in Finland 
 
 ## What I do
 
