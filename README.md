@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👨‍💻 I'm a passionate QA Engineer based in Finland 
+👨‍💻 I'm a passionate QA Engineer @ Yousician
 
 ## What I do
 
