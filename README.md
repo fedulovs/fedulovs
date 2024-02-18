@@ -12,17 +12,15 @@
 
 ## Languages and tools
 
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg"></code>
 <code><img height="30" src="https://selenium.dev/images/selenium_logo_square_green.png"></code>
 <code><img height="30" src="https://developer.android.com/images/training/testing/espresso.png"></code>
 <code><img height="30" src="https://brandslogos.com/wp-content/uploads/images/large/appium-logo.png"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4"></code>
-<code><img height="30" src="https://w7.pngwing.com/pngs/928/911/png-transparent-junit-software-testing-spring-framework-unit-testing-java-others-miscellaneous-text-trademark-thumbnail.png"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"></code>
-<code><img height="30" src="https://img.stackshare.io/service/40202/default_48abe5208fc58ffa608d65592ad0f588ebc04746.png"></code>
-<code><img height="30" src="https://seeklogo.com/images/R/robot-framework-logo-FED576FF0B-seeklogo.com.png"></code>
 
 <br>
 
