@@ -4,11 +4,11 @@
 
 ## What I do
 
-💻 Web Automation
+👾 Web Development
 
-📱 Mobile Automation
+📱 QA Automation
 
-🛠 QA Tools development
+🛠 QA Tools Development
 
 ## Languages and tools
 
