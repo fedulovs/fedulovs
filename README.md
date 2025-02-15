@@ -18,7 +18,7 @@
 <code><img height="30" src="https://www.hacksoft.io/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F98835%2F1684410508-image-7.png&w=384&q=75"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg"></code>
-<code><img height="30" src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png"></code>
+<code><img height="30" src="https://cdn.brandfetch.io/idpyc8TcWP/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B"></code>
 <code><img height="30" src="https://selenium.dev/images/selenium_logo_square_green.png"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"></code>
 
